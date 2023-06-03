@@ -19,7 +19,7 @@
 header{
     background-image: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.4)), url('Image/hero2.jpg');
     height: 100vh;
-    
+    background-attachment: fixed;
     background-size: cover;
     background-position: center;
 
